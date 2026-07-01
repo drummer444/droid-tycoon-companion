@@ -1,0 +1,491 @@
+{
+  "$schema": "rebirths.schema.json",
+  "source": "Insider Gaming Rebirth Requirements guide, updated Jun 15 2026 (community-sourced, cross-check in-game)",
+  "notes": "Levels 18-19 requirements may have shifted slightly in a later patch per player reports (toward all-Rainbow tiers) \u2014 verify against the in-game Rebirth Station kiosk.",
+  "lastUpdated": "2026-07-01",
+  "rebirths": [
+    {
+      "level": 1,
+      "creditsRequired": 10000,
+      "requiredDroids": [
+        {
+          "droidId": "cb",
+          "name": "CB",
+          "tier": "Base"
+        },
+        {
+          "droidId": "pit",
+          "name": "Pit",
+          "tier": "Base"
+        },
+        {
+          "droidId": "drk_1_probe",
+          "name": "DRK-1 Probe",
+          "tier": "Base"
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "creditsRequired": 150000,
+      "requiredDroids": [
+        {
+          "droidId": "bdx_explorer",
+          "name": "BDX Explorer",
+          "tier": "Base"
+        },
+        {
+          "droidId": "2bb",
+          "name": "2BB",
+          "tier": "Base"
+        },
+        {
+          "droidId": "bal_core",
+          "name": "Bal-Core",
+          "tier": "Base"
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "creditsRequired": 975000,
+      "requiredDroids": [
+        {
+          "droidId": "a_lt",
+          "name": "A-LT",
+          "tier": "Base"
+        },
+        {
+          "droidId": "bu_4d",
+          "name": "BU-4D",
+          "tier": "Base"
+        },
+        {
+          "droidId": "r9",
+          "name": "R9",
+          "tier": "Gold"
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "creditsRequired": 2950000,
+      "requiredDroids": [
+        {
+          "droidId": "arg",
+          "name": "ARG",
+          "tier": "Gold"
+        },
+        {
+          "droidId": "b1_security",
+          "name": "B1 Security",
+          "tier": "Gold"
+        },
+        {
+          "droidId": "groundmech",
+          "name": "Groundmech",
+          "tier": "Base"
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "creditsRequired": 5350000,
+      "requiredDroids": [
+        {
+          "droidId": "bu_4d",
+          "name": "BU-4D",
+          "tier": "Gold"
+        },
+        {
+          "droidId": "hov_r",
+          "name": "HOV-R",
+          "tier": "Gold"
+        },
+        {
+          "droidId": "r9",
+          "name": "R9",
+          "tier": "Diamond"
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "creditsRequired": 9850000,
+      "requiredDroids": [
+        {
+          "droidId": "groundmech",
+          "name": "Groundmech",
+          "tier": "Gold"
+        },
+        {
+          "droidId": "arg",
+          "name": "ARG",
+          "tier": "Diamond"
+        },
+        {
+          "droidId": "a_lt",
+          "name": "A-LT",
+          "tier": "Diamond"
+        }
+      ]
+    },
+    {
+      "level": 7,
+      "creditsRequired": 14500000,
+      "requiredDroids": [
+        {
+          "droidId": "bb",
+          "name": "BB",
+          "tier": "Gold"
+        },
+        {
+          "droidId": "b1_security",
+          "name": "B1 Security",
+          "tier": "Diamond"
+        },
+        {
+          "droidId": "bu_4d",
+          "name": "BU-4D",
+          "tier": "Diamond"
+        }
+      ]
+    },
+    {
+      "level": 8,
+      "creditsRequired": 36000000,
+      "requiredDroids": [
+        {
+          "droidId": "util_tec",
+          "name": "Util-Tec",
+          "tier": "Gold"
+        },
+        {
+          "droidId": "lo",
+          "name": "LO",
+          "tier": "Gold"
+        },
+        {
+          "droidId": "hov_r",
+          "name": "HOV-R",
+          "tier": "Diamond"
+        }
+      ]
+    },
+    {
+      "level": 9,
+      "creditsRequired": 89000000,
+      "requiredDroids": [
+        {
+          "droidId": "groundmech",
+          "name": "Groundmech",
+          "tier": "Rainbow"
+        },
+        {
+          "droidId": "r6",
+          "name": "R6",
+          "tier": "Gold"
+        },
+        {
+          "droidId": "trak_r",
+          "name": "TRAK-R",
+          "tier": "Gold"
+        }
+      ]
+    },
+    {
+      "level": 10,
+      "creditsRequired": 220000000,
+      "requiredDroids": [
+        {
+          "droidId": "lo",
+          "name": "LO",
+          "tier": "Rainbow"
+        },
+        {
+          "droidId": "haul_r",
+          "name": "Haul-R",
+          "tier": "Rainbow"
+        },
+        {
+          "droidId": "strike_orb",
+          "name": "Strike-Orb",
+          "tier": "Gold"
+        }
+      ]
+    },
+    {
+      "level": 11,
+      "creditsRequired": 550000000,
+      "requiredDroids": [
+        {
+          "droidId": "amp_walker",
+          "name": "AMP Walker",
+          "tier": "Rainbow"
+        },
+        {
+          "droidId": "b1_heavy",
+          "name": "B1 Heavy",
+          "tier": "Rainbow"
+        },
+        {
+          "droidId": "bb9",
+          "name": "BB9",
+          "tier": "Base"
+        }
+      ]
+    },
+    {
+      "level": 12,
+      "creditsRequired": 1360000000,
+      "requiredDroids": [
+        {
+          "droidId": "proto_roller",
+          "name": "Proto-Roller",
+          "tier": "Gold"
+        },
+        {
+          "droidId": "mecha_droid",
+          "name": "Mecha-Droid",
+          "tier": "Base"
+        },
+        {
+          "droidId": "mono_wlkr",
+          "name": "Mono-WLKR",
+          "tier": "Base"
+        }
+      ]
+    },
+    {
+      "level": 13,
+      "creditsRequired": 3400000000,
+      "requiredDroids": [
+        {
+          "droidId": "r7",
+          "name": "R7",
+          "tier": "Base"
+        },
+        {
+          "droidId": "cyclo_grav",
+          "name": "Cyclo-Grav",
+          "tier": "Base"
+        },
+        {
+          "droidId": "b2_rp",
+          "name": "B2-RP",
+          "tier": "Base"
+        }
+      ]
+    },
+    {
+      "level": 14,
+      "creditsRequired": 8450000000,
+      "requiredDroids": [
+        {
+          "droidId": "opti_strk",
+          "name": "Opti-STRK",
+          "tier": "Base"
+        },
+        {
+          "droidId": "mono_wlkr",
+          "name": "Mono-WLKR",
+          "tier": "Gold"
+        },
+        {
+          "droidId": "mecha_droid",
+          "name": "Mecha-Droid",
+          "tier": "Gold"
+        }
+      ]
+    },
+    {
+      "level": 15,
+      "creditsRequired": 21000000000,
+      "requiredDroids": [
+        {
+          "droidId": "b2_rp",
+          "name": "B2-RP",
+          "tier": "Gold"
+        },
+        {
+          "droidId": "bb9",
+          "name": "BB9",
+          "tier": "Gold"
+        },
+        {
+          "droidId": "r7",
+          "name": "R7",
+          "tier": "Gold"
+        }
+      ]
+    },
+    {
+      "level": 16,
+      "creditsRequired": 52000000000,
+      "requiredDroids": [
+        {
+          "droidId": "opti_strk",
+          "name": "Opti-STRK",
+          "tier": "Gold"
+        },
+        {
+          "droidId": "mono_wlkr",
+          "name": "Mono-WLKR",
+          "tier": "Diamond"
+        },
+        {
+          "droidId": "proto_roller",
+          "name": "Proto-Roller",
+          "tier": "Diamond"
+        }
+      ]
+    },
+    {
+      "level": 17,
+      "creditsRequired": 130000000000,
+      "requiredDroids": [
+        {
+          "droidId": "b2_rp",
+          "name": "B2-RP",
+          "tier": "Diamond"
+        },
+        {
+          "droidId": "cyclo_grav",
+          "name": "Cyclo-Grav",
+          "tier": "Diamond"
+        },
+        {
+          "droidId": "mecha_droid",
+          "name": "Mecha-Droid",
+          "tier": "Diamond"
+        }
+      ]
+    },
+    {
+      "level": 18,
+      "creditsRequired": 325000000000,
+      "requiredDroids": [
+        {
+          "droidId": "bb9",
+          "name": "BB9",
+          "tier": "Diamond"
+        },
+        {
+          "droidId": "r7",
+          "name": "R7",
+          "tier": "Diamond"
+        },
+        {
+          "droidId": "mono_wlkr",
+          "name": "Mono-WLKR",
+          "tier": "Rainbow"
+        }
+      ]
+    },
+    {
+      "level": 19,
+      "creditsRequired": 810000000000,
+      "requiredDroids": [
+        {
+          "droidId": "b2_rp",
+          "name": "B2-RP",
+          "tier": "Rainbow"
+        },
+        {
+          "droidId": "cyclo_grav",
+          "name": "Cyclo-Grav",
+          "tier": "Rainbow"
+        },
+        {
+          "droidId": "proto_roller",
+          "name": "Proto-Roller",
+          "tier": "Rainbow"
+        }
+      ]
+    },
+    {
+      "level": 20,
+      "creditsRequired": 2000000000000,
+      "requiredDroids": [
+        {
+          "droidId": "r7",
+          "name": "R7",
+          "tier": "Rainbow"
+        },
+        {
+          "droidId": "opti_strk",
+          "name": "Opti-STRK",
+          "tier": "Rainbow"
+        },
+        {
+          "droidId": "mecha_droid",
+          "name": "Mecha-Droid",
+          "tier": "Rainbow"
+        }
+      ]
+    },
+    {
+      "level": 21,
+      "creditsRequired": 3000000000000,
+      "requiredDroids": [
+        {
+          "droidId": "bb",
+          "name": "BB",
+          "tier": "Beskar"
+        },
+        {
+          "droidId": "orb_walker",
+          "name": "ORB-Walker",
+          "tier": "Beskar"
+        },
+        {
+          "droidId": "groundmech",
+          "name": "Groundmech",
+          "tier": "Beskar"
+        }
+      ]
+    },
+    {
+      "level": 22,
+      "creditsRequired": 4500000000000,
+      "requiredDroids": [
+        {
+          "droidId": "amp_walker",
+          "name": "AMP Walker",
+          "tier": "Beskar"
+        },
+        {
+          "droidId": "b1_heavy",
+          "name": "B1 Heavy",
+          "tier": "Beskar"
+        },
+        {
+          "droidId": "proto_roller",
+          "name": "Proto-Roller",
+          "tier": "Beskar"
+        }
+      ]
+    },
+    {
+      "level": 23,
+      "creditsRequired": 6000000000000,
+      "requiredDroids": [
+        {
+          "droidId": "opti_strk",
+          "name": "Opti-STRK",
+          "tier": "Beskar"
+        },
+        {
+          "droidId": "mono_wlkr",
+          "name": "Mono-WLKR",
+          "tier": "Beskar"
+        },
+        {
+          "droidId": "r7",
+          "name": "R7",
+          "tier": "Beskar"
+        }
+      ]
+    }
+  ]
+}
