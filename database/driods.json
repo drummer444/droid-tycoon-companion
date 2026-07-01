@@ -1,0 +1,823 @@
+{
+  "$schema": "droids.schema.json",
+  "source": "Insider Gaming Droidex guide, May 6 2026 (community-sourced, cross-check in-game)",
+  "lastUpdated": "2026-07-01",
+  "droids": [
+    {
+      "id": "mouse",
+      "name": "Mouse",
+      "type": "Worker",
+      "rarity": "Common",
+      "income": {
+        "base": 2,
+        "gold": 4,
+        "diamond": 8,
+        "rainbow": 16,
+        "beskar": null
+      },
+      "owned": false,
+      "ownedTier": "None",
+      "notes": null
+    },
+    {
+      "id": "pit",
+      "name": "Pit",
+      "type": "Worker",
+      "rarity": "Common",
+      "income": {
+        "base": 2,
+        "gold": 4,
+        "diamond": 8,
+        "rainbow": 16,
+        "beskar": null
+      },
+      "owned": false,
+      "ownedTier": "None",
+      "notes": null
+    },
+    {
+      "id": "gonk",
+      "name": "Gonk",
+      "type": "Worker",
+      "rarity": "Common",
+      "income": {
+        "base": 4,
+        "gold": 8,
+        "diamond": 16,
+        "rainbow": 32,
+        "beskar": null
+      },
+      "owned": false,
+      "ownedTier": "None",
+      "notes": null
+    },
+    {
+      "id": "cb",
+      "name": "CB",
+      "type": "Astromech",
+      "rarity": "Common",
+      "income": {
+        "base": 3,
+        "gold": 6,
+        "diamond": 12,
+        "rainbow": 24,
+        "beskar": null
+      },
+      "owned": false,
+      "ownedTier": "None",
+      "notes": null
+    },
+    {
+      "id": "r3",
+      "name": "R3",
+      "type": "Astromech",
+      "rarity": "Common",
+      "income": {
+        "base": 3,
+        "gold": 6,
+        "diamond": 12,
+        "rainbow": 24,
+        "beskar": null
+      },
+      "owned": false,
+      "ownedTier": "None",
+      "notes": null
+    },
+    {
+      "id": "r5",
+      "name": "R5",
+      "type": "Astromech",
+      "rarity": "Common",
+      "income": {
+        "base": 3,
+        "gold": 6,
+        "diamond": 12,
+        "rainbow": 24,
+        "beskar": null
+      },
+      "owned": false,
+      "ownedTier": "None",
+      "notes": null
+    },
+    {
+      "id": "r8",
+      "name": "R8",
+      "type": "Astromech",
+      "rarity": "Common",
+      "income": {
+        "base": 4,
+        "gold": 8,
+        "diamond": 16,
+        "rainbow": 32,
+        "beskar": null
+      },
+      "owned": false,
+      "ownedTier": "None",
+      "notes": null
+    },
+    {
+      "id": "imperial_probe",
+      "name": "Imperial Probe",
+      "type": "Battle",
+      "rarity": "Common",
+      "income": {
+        "base": 6,
+        "gold": 12,
+        "diamond": 24,
+        "rainbow": 48,
+        "beskar": null
+      },
+      "owned": false,
+      "ownedTier": "None",
+      "notes": null
+    },
+    {
+      "id": "b1_battle",
+      "name": "B1 Battle",
+      "type": "Battle",
+      "rarity": "Common",
+      "income": {
+        "base": 5,
+        "gold": 10,
+        "diamond": 20,
+        "rainbow": 40,
+        "beskar": null
+      },
+      "owned": false,
+      "ownedTier": "None",
+      "notes": null
+    },
+    {
+      "id": "drk_1_probe",
+      "name": "DRK-1 Probe",
+      "type": "Battle",
+      "rarity": "Common",
+      "income": {
+        "base": 3,
+        "gold": 6,
+        "diamond": 12,
+        "rainbow": 24,
+        "beskar": null
+      },
+      "owned": false,
+      "ownedTier": "None",
+      "notes": null
+    },
+    {
+      "id": "id10",
+      "name": "ID10",
+      "type": "Battle",
+      "rarity": "Common",
+      "income": {
+        "base": 4,
+        "gold": 8,
+        "diamond": 16,
+        "rainbow": 32,
+        "beskar": null
+      },
+      "owned": false,
+      "ownedTier": "None",
+      "notes": null
+    },
+    {
+      "id": "bdx_explorer",
+      "name": "BDX Explorer",
+      "type": "Worker",
+      "rarity": "Rare",
+      "income": {
+        "base": 15,
+        "gold": 30,
+        "diamond": 60,
+        "rainbow": 120,
+        "beskar": null
+      },
+      "owned": false,
+      "ownedTier": "None",
+      "notes": null
+    },
+    {
+      "id": "arg",
+      "name": "ARG",
+      "type": "Worker",
+      "rarity": "Rare",
+      "income": {
+        "base": 42,
+        "gold": 84,
+        "diamond": 168,
+        "rainbow": 336,
+        "beskar": null
+      },
+      "owned": false,
+      "ownedTier": "None",
+      "notes": null
+    },
+    {
+      "id": "senate_hovercam",
+      "name": "Senate Hovercam",
+      "type": "Worker",
+      "rarity": "Rare",
+      "income": {
+        "base": 46,
+        "gold": 92,
+        "diamond": 184,
+        "rainbow": 368,
+        "beskar": null
+      },
+      "owned": false,
+      "ownedTier": "None",
+      "notes": null
+    },
+    {
+      "id": "bu_4d",
+      "name": "BU-4D",
+      "type": "Worker",
+      "rarity": "Rare",
+      "income": {
+        "base": 58,
+        "gold": 116,
+        "diamond": 232,
+        "rainbow": 464,
+        "beskar": null
+      },
+      "owned": false,
+      "ownedTier": "None",
+      "notes": null
+    },
+    {
+      "id": "bal_core",
+      "name": "Bal-Core",
+      "type": "Worker",
+      "rarity": "Rare",
+      "income": {
+        "base": 23,
+        "gold": 46,
+        "diamond": 92,
+        "rainbow": 184,
+        "beskar": null
+      },
+      "owned": false,
+      "ownedTier": "None",
+      "notes": null
+    },
+    {
+      "id": "roll_r",
+      "name": "ROLL-R",
+      "type": "Worker",
+      "rarity": "Rare",
+      "income": {
+        "base": 31,
+        "gold": 62,
+        "diamond": 124,
+        "rainbow": 248,
+        "beskar": null
+      },
+      "owned": false,
+      "ownedTier": "None",
+      "notes": null
+    },
+    {
+      "id": "2bb",
+      "name": "2BB",
+      "type": "Astromech",
+      "rarity": "Rare",
+      "income": {
+        "base": 17,
+        "gold": 34,
+        "diamond": 68,
+        "rainbow": 136,
+        "beskar": null
+      },
+      "owned": false,
+      "ownedTier": "None",
+      "notes": null
+    },
+    {
+      "id": "a_lt",
+      "name": "A-LT",
+      "type": "Astromech",
+      "rarity": "Rare",
+      "income": {
+        "base": 36,
+        "gold": 72,
+        "diamond": 144,
+        "rainbow": 288,
+        "beskar": null
+      },
+      "owned": false,
+      "ownedTier": "None",
+      "notes": null
+    },
+    {
+      "id": "r4",
+      "name": "R4",
+      "type": "Astromech",
+      "rarity": "Rare",
+      "income": {
+        "base": 50,
+        "gold": 100,
+        "diamond": 200,
+        "rainbow": 400,
+        "beskar": null
+      },
+      "owned": false,
+      "ownedTier": "None",
+      "notes": null
+    },
+    {
+      "id": "r9",
+      "name": "R9",
+      "type": "Astromech",
+      "rarity": "Rare",
+      "income": {
+        "base": 54,
+        "gold": 108,
+        "diamond": 216,
+        "rainbow": 432,
+        "beskar": null
+      },
+      "owned": false,
+      "ownedTier": "None",
+      "notes": null
+    },
+    {
+      "id": "b1_security",
+      "name": "B1 Security",
+      "type": "Battle",
+      "rarity": "Rare",
+      "income": {
+        "base": 66,
+        "gold": 132,
+        "diamond": 264,
+        "rainbow": 528,
+        "beskar": null
+      },
+      "owned": false,
+      "ownedTier": "None",
+      "notes": null
+    },
+    {
+      "id": "nav_ex",
+      "name": "NAV-EX",
+      "type": "Battle",
+      "rarity": "Rare",
+      "income": {
+        "base": 18,
+        "gold": 36,
+        "diamond": 72,
+        "rainbow": 144,
+        "beskar": null
+      },
+      "owned": false,
+      "ownedTier": "None",
+      "notes": null
+    },
+    {
+      "id": "vect_arm",
+      "name": "VECT-Arm",
+      "type": "Battle",
+      "rarity": "Rare",
+      "income": {
+        "base": 27,
+        "gold": 54,
+        "diamond": 108,
+        "rainbow": 216,
+        "beskar": null
+      },
+      "owned": false,
+      "ownedTier": "None",
+      "notes": null
+    },
+    {
+      "id": "hov_r",
+      "name": "HOV-R",
+      "type": "Battle",
+      "rarity": "Rare",
+      "income": {
+        "base": 62,
+        "gold": 124,
+        "diamond": 248,
+        "rainbow": 496,
+        "beskar": null
+      },
+      "owned": false,
+      "ownedTier": "None",
+      "notes": null
+    },
+    {
+      "id": "groundmech",
+      "name": "Groundmech",
+      "type": "Worker",
+      "rarity": "Epic",
+      "income": {
+        "base": 120,
+        "gold": 240,
+        "diamond": 480,
+        "rainbow": 960,
+        "beskar": null
+      },
+      "owned": false,
+      "ownedTier": "None",
+      "notes": null
+    },
+    {
+      "id": "lo",
+      "name": "LO",
+      "type": "Worker",
+      "rarity": "Epic",
+      "income": {
+        "base": 240,
+        "gold": 480,
+        "diamond": 960,
+        "rainbow": 1920,
+        "beskar": null
+      },
+      "owned": false,
+      "ownedTier": "None",
+      "notes": null
+    },
+    {
+      "id": "amp_walker",
+      "name": "AMP Walker",
+      "type": "Worker",
+      "rarity": "Epic",
+      "income": {
+        "base": 570,
+        "gold": 1140,
+        "diamond": 2280,
+        "rainbow": 4560,
+        "beskar": null
+      },
+      "owned": false,
+      "ownedTier": "None",
+      "notes": null
+    },
+    {
+      "id": "sen_tri",
+      "name": "SEN-TRI",
+      "type": "Worker",
+      "rarity": "Epic",
+      "income": {
+        "base": 510,
+        "gold": 1020,
+        "diamond": 2040,
+        "rainbow": 4080,
+        "beskar": null
+      },
+      "owned": false,
+      "ownedTier": "None",
+      "notes": null
+    },
+    {
+      "id": "opti_pod",
+      "name": "Opti-Pod",
+      "type": "Worker",
+      "rarity": "Epic",
+      "income": {
+        "base": 380,
+        "gold": 780,
+        "diamond": 1560,
+        "rainbow": 3120,
+        "beskar": null
+      },
+      "owned": false,
+      "ownedTier": "None",
+      "notes": null
+    },
+    {
+      "id": "bb",
+      "name": "BB",
+      "type": "Astromech",
+      "rarity": "Epic",
+      "income": {
+        "base": 150,
+        "gold": 300,
+        "diamond": 600,
+        "rainbow": 1200,
+        "beskar": null
+      },
+      "owned": false,
+      "ownedTier": "None",
+      "notes": null
+    },
+    {
+      "id": "r2",
+      "name": "R2",
+      "type": "Astromech",
+      "rarity": "Epic",
+      "income": {
+        "base": 360,
+        "gold": 720,
+        "diamond": 1440,
+        "rainbow": 2880,
+        "beskar": null
+      },
+      "owned": false,
+      "ownedTier": "None",
+      "notes": null
+    },
+    {
+      "id": "r6",
+      "name": "R6",
+      "type": "Astromech",
+      "rarity": "Epic",
+      "income": {
+        "base": 300,
+        "gold": 600,
+        "diamond": 1200,
+        "rainbow": 2400,
+        "beskar": null
+      },
+      "owned": false,
+      "ownedTier": "None",
+      "notes": null
+    },
+    {
+      "id": "trak_r",
+      "name": "TRAK-R",
+      "type": "Astromech",
+      "rarity": "Epic",
+      "income": {
+        "base": 330,
+        "gold": 660,
+        "diamond": 1320,
+        "rainbow": 2640,
+        "beskar": null
+      },
+      "owned": false,
+      "ownedTier": "None",
+      "notes": null
+    },
+    {
+      "id": "orb_walker",
+      "name": "ORB-Walker",
+      "type": "Astromech",
+      "rarity": "Epic",
+      "income": {
+        "base": 180,
+        "gold": 360,
+        "diamond": 720,
+        "rainbow": 1440,
+        "beskar": null
+      },
+      "owned": false,
+      "ownedTier": "None",
+      "notes": null
+    },
+    {
+      "id": "util_tec",
+      "name": "Util-Tec",
+      "type": "Astromech",
+      "rarity": "Epic",
+      "income": {
+        "base": 210,
+        "gold": 420,
+        "diamond": 840,
+        "rainbow": 1680,
+        "beskar": null
+      },
+      "owned": false,
+      "ownedTier": "None",
+      "notes": null
+    },
+    {
+      "id": "b1_heavy",
+      "name": "B1 Heavy",
+      "type": "Battle",
+      "rarity": "Epic",
+      "income": {
+        "base": 630,
+        "gold": 1260,
+        "diamond": 2520,
+        "rainbow": 5040,
+        "beskar": null
+      },
+      "owned": false,
+      "ownedTier": "None",
+      "notes": null
+    },
+    {
+      "id": "b2_super",
+      "name": "B2 Super",
+      "type": "Battle",
+      "rarity": "Epic",
+      "income": {
+        "base": 420,
+        "gold": 840,
+        "diamond": 1680,
+        "rainbow": 3360,
+        "beskar": null
+      },
+      "owned": false,
+      "ownedTier": "None",
+      "notes": null
+    },
+    {
+      "id": "b2_heavy",
+      "name": "B2 Heavy",
+      "type": "Battle",
+      "rarity": "Epic",
+      "income": {
+        "base": 480,
+        "gold": 960,
+        "diamond": 1920,
+        "rainbow": 3840,
+        "beskar": null
+      },
+      "owned": false,
+      "ownedTier": "None",
+      "notes": null
+    },
+    {
+      "id": "strike_orb",
+      "name": "Strike-Orb",
+      "type": "Battle",
+      "rarity": "Epic",
+      "income": {
+        "base": 540,
+        "gold": 1080,
+        "diamond": 2160,
+        "rainbow": 4320,
+        "beskar": null
+      },
+      "owned": false,
+      "ownedTier": "None",
+      "notes": null
+    },
+    {
+      "id": "haul_r",
+      "name": "Haul-R",
+      "type": "Battle",
+      "rarity": "Epic",
+      "income": {
+        "base": 270,
+        "gold": 540,
+        "diamond": 1080,
+        "rainbow": 2160,
+        "beskar": null
+      },
+      "owned": false,
+      "ownedTier": "None",
+      "notes": null
+    },
+    {
+      "id": "lng_shot",
+      "name": "LNG-Shot",
+      "type": "Battle",
+      "rarity": "Epic",
+      "income": {
+        "base": 450,
+        "gold": 900,
+        "diamond": 1800,
+        "rainbow": 3600,
+        "beskar": null
+      },
+      "owned": false,
+      "ownedTier": "None",
+      "notes": "Diamond value corrected to fit x2 doubling pattern; source table showed 1.08k (likely a source typo)"
+    },
+    {
+      "id": "proto_roller",
+      "name": "Proto-Roller",
+      "type": "Battle",
+      "rarity": "Epic",
+      "income": {
+        "base": 972,
+        "gold": 1944,
+        "diamond": 3888,
+        "rainbow": 7776,
+        "beskar": null
+      },
+      "owned": false,
+      "ownedTier": "None",
+      "notes": "Source lists slightly rounded k-values (1.94k/3.88k/7.76k); shown here as exact x2 doubling from base"
+    },
+    {
+      "id": "mecha_droid",
+      "name": "Mecha-Droid",
+      "type": "Worker",
+      "rarity": "Legendary",
+      "income": {
+        "base": 1040,
+        "gold": 2080,
+        "diamond": 4160,
+        "rainbow": 8320,
+        "beskar": null
+      },
+      "owned": false,
+      "ownedTier": "None",
+      "notes": null
+    },
+    {
+      "id": "mono_wlkr",
+      "name": "Mono-WLKR",
+      "type": "Worker",
+      "rarity": "Legendary",
+      "income": {
+        "base": 1120,
+        "gold": 2240,
+        "diamond": 4480,
+        "rainbow": 8960,
+        "beskar": null
+      },
+      "owned": false,
+      "ownedTier": "None",
+      "notes": "Source rounded Gold/Diamond/Rainbow slightly (2.23k/4.46k/8.92k); shown here as exact x2 doubling"
+    },
+    {
+      "id": "bb9",
+      "name": "BB9",
+      "type": "Astromech",
+      "rarity": "Legendary",
+      "income": {
+        "base": 900,
+        "gold": 1800,
+        "diamond": 3600,
+        "rainbow": 7200,
+        "beskar": null
+      },
+      "owned": false,
+      "ownedTier": "None",
+      "notes": null
+    },
+    {
+      "id": "r7",
+      "name": "R7",
+      "type": "Astromech",
+      "rarity": "Legendary",
+      "income": {
+        "base": 1190,
+        "gold": 2380,
+        "diamond": 4750,
+        "rainbow": 9500,
+        "beskar": null
+      },
+      "owned": false,
+      "ownedTier": "None",
+      "notes": null
+    },
+    {
+      "id": "b2_rp",
+      "name": "B2-RP",
+      "type": "Battle",
+      "rarity": "Legendary",
+      "income": {
+        "base": 1400,
+        "gold": 2800,
+        "diamond": 5600,
+        "rainbow": 11200,
+        "beskar": null
+      },
+      "owned": false,
+      "ownedTier": "None",
+      "notes": null
+    },
+    {
+      "id": "cyclo_grav",
+      "name": "Cyclo-Grav",
+      "type": "Battle",
+      "rarity": "Legendary",
+      "income": {
+        "base": 1260,
+        "gold": 2520,
+        "diamond": 5040,
+        "rainbow": 10080,
+        "beskar": null
+      },
+      "owned": false,
+      "ownedTier": "None",
+      "notes": null
+    },
+    {
+      "id": "opti_strk",
+      "name": "Opti-STRK",
+      "type": "Battle",
+      "rarity": "Legendary",
+      "income": {
+        "base": 1510,
+        "gold": 3020,
+        "diamond": 6040,
+        "rainbow": 12080,
+        "beskar": null
+      },
+      "owned": false,
+      "ownedTier": "None",
+      "notes": null
+    },
+    {
+      "id": "bb_8",
+      "name": "BB-8",
+      "type": "Astromech",
+      "rarity": "Mythic",
+      "income": {
+        "base": null,
+        "gold": null,
+        "diamond": null,
+        "rainbow": null,
+        "beskar": null
+      },
+      "owned": false,
+      "ownedTier": "None",
+      "notes": "Income values not yet published by Epic (TBC)"
+    }
+  ]
+}
