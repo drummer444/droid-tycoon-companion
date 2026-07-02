@@ -1,7 +1,7 @@
 {
   "$schema": "droids.schema.json",
-  "source": "Insider Gaming Droidex guide, May 6 2026 (community-sourced, cross-check in-game)",
-  "lastUpdated": "2026-07-01",
+  "source": "Insider Gaming Droidex guide (May 6 2026) for Common-Legendary; Destructoid/games.gg/AllThingsHow (Jul 1 2026) for the new Mythic tier. Community-sourced, cross-check in-game.",
+  "lastUpdated": "2026-07-02",
   "droids": [
     {
       "id": "mouse",
@@ -817,7 +817,194 @@
       },
       "owned": false,
       "ownedTier": "None",
-      "notes": "Income values not yet published by Epic (TBC)"
+      "notes": "Astromech Mythic \u2014 income not yet published by Epic (TBC). Confirmed as part of the ~Jul 1 2026 Mythic tier alongside RIC-1200, LEP, Loadlifter, TRI-TEK, CYCLENS, KX, IG, and others (source: AllThingsHow)."
+    },
+    {
+      "id": "snow_mouse",
+      "name": "Snow Mouse",
+      "type": "Unknown (TBC)",
+      "rarity": "Mythic",
+      "sandcrawlerCost": 180000000,
+      "income": {
+        "base": 4400,
+        "gold": 8800,
+        "diamond": 17600,
+        "rainbow": 35200,
+        "beskar": null
+      },
+      "owned": false,
+      "ownedTier": "None",
+      "notes": "Mythic tier added ~Jul 1 2026 (source: Destructoid). Base cost & income confirmed; Worker/Astromech/Battle class not confirmed by source \u2014 verify in-game and update. Gold/Diamond/Rainbow income inferred using the game's standard x2-per-tier doubling rule. Beskar income TBC."
+    },
+    {
+      "id": "ric",
+      "name": "RIC",
+      "type": "Unknown (TBC)",
+      "rarity": "Mythic",
+      "sandcrawlerCost": 204000000,
+      "income": {
+        "base": 5100,
+        "gold": 10200,
+        "diamond": 20400,
+        "rainbow": 40800,
+        "beskar": null
+      },
+      "owned": false,
+      "ownedTier": "None",
+      "notes": "Mythic tier added ~Jul 1 2026 (source: Destructoid). Base cost & income confirmed; Worker/Astromech/Battle class not confirmed by source \u2014 verify in-game and update. Gold/Diamond/Rainbow income inferred using the game's standard x2-per-tier doubling rule. Beskar income TBC."
+    },
+    {
+      "id": "ric_1200",
+      "name": "RIC-1200",
+      "type": "Worker",
+      "rarity": "Mythic",
+      "sandcrawlerCost": 228000000,
+      "income": {
+        "base": 5800,
+        "gold": 11600,
+        "diamond": 23200,
+        "rainbow": 46400,
+        "beskar": null
+      },
+      "owned": false,
+      "ownedTier": "None",
+      "notes": "Mythic tier added ~Jul 1 2026 (source: Destructoid/games.gg/AllThingsHow). Base cost & income confirmed; Gold/Diamond/Rainbow income inferred using the game's standard x2-per-tier doubling rule (not individually confirmed). Beskar income TBC."
+    },
+    {
+      "id": "lep",
+      "name": "LEP",
+      "type": "Worker",
+      "rarity": "Mythic",
+      "sandcrawlerCost": 252000000,
+      "income": {
+        "base": 6500,
+        "gold": 13000,
+        "diamond": 26000,
+        "rainbow": 52000,
+        "beskar": null
+      },
+      "owned": false,
+      "ownedTier": "None",
+      "notes": "Mythic tier added ~Jul 1 2026 (source: Destructoid/games.gg/AllThingsHow). Base cost & income confirmed; Gold/Diamond/Rainbow income inferred using the game's standard x2-per-tier doubling rule (not individually confirmed). Beskar income TBC."
+    },
+    {
+      "id": "loadlifter",
+      "name": "Loadlifter",
+      "type": "Worker",
+      "rarity": "Mythic",
+      "sandcrawlerCost": 300000000,
+      "income": {
+        "base": 7200,
+        "gold": 14400,
+        "diamond": 28800,
+        "rainbow": 57600,
+        "beskar": null
+      },
+      "owned": false,
+      "ownedTier": "None",
+      "notes": "Mythic tier added ~Jul 1 2026 (source: Destructoid/games.gg/AllThingsHow). Base cost & income confirmed; Gold/Diamond/Rainbow income inferred using the game's standard x2-per-tier doubling rule (not individually confirmed). Beskar income TBC."
+    },
+    {
+      "id": "drft_r",
+      "name": "DRFT-R",
+      "type": "Unknown (TBC)",
+      "rarity": "Mythic",
+      "sandcrawlerCost": 228000000,
+      "income": {
+        "base": 5800,
+        "gold": 11600,
+        "diamond": 23200,
+        "rainbow": 46400,
+        "beskar": null
+      },
+      "owned": false,
+      "ownedTier": "None",
+      "notes": "Mythic tier added ~Jul 1 2026 (source: Destructoid). Base cost & income confirmed; Worker/Astromech/Battle class not confirmed by source \u2014 verify in-game and update. Gold/Diamond/Rainbow income inferred using the game's standard x2-per-tier doubling rule. Beskar income TBC."
+    },
+    {
+      "id": "mo_trak",
+      "name": "MO-TRAK",
+      "type": "Unknown (TBC)",
+      "rarity": "Mythic",
+      "sandcrawlerCost": 300000000,
+      "income": {
+        "base": 7200,
+        "gold": 14400,
+        "diamond": 28800,
+        "rainbow": 57600,
+        "beskar": null
+      },
+      "owned": false,
+      "ownedTier": "None",
+      "notes": "Mythic tier added ~Jul 1 2026 (source: Destructoid). Base cost & income confirmed; Worker/Astromech/Battle class not confirmed by source \u2014 verify in-game and update. Gold/Diamond/Rainbow income inferred using the game's standard x2-per-tier doubling rule. Beskar income TBC."
+    },
+    {
+      "id": "tri_tek",
+      "name": "TRI-TEK",
+      "type": "Astromech",
+      "rarity": "Mythic",
+      "sandcrawlerCost": 252000000,
+      "income": {
+        "base": 6500,
+        "gold": 13000,
+        "diamond": 26000,
+        "rainbow": 52000,
+        "beskar": null
+      },
+      "owned": false,
+      "ownedTier": "None",
+      "notes": "Mythic tier added ~Jul 1 2026 (source: Destructoid/games.gg/AllThingsHow). Base cost & income confirmed; Gold/Diamond/Rainbow income inferred using the game's standard x2-per-tier doubling rule (not individually confirmed). Beskar income TBC."
+    },
+    {
+      "id": "cyclens",
+      "name": "CYCLENS",
+      "type": "Astromech",
+      "rarity": "Mythic",
+      "sandcrawlerCost": 180000000,
+      "income": {
+        "base": 4400,
+        "gold": 8800,
+        "diamond": 17600,
+        "rainbow": 35200,
+        "beskar": null
+      },
+      "owned": false,
+      "ownedTier": "None",
+      "notes": "Mythic tier added ~Jul 1 2026 (source: Destructoid/games.gg/AllThingsHow). Base cost & income confirmed; Gold/Diamond/Rainbow income inferred using the game's standard x2-per-tier doubling rule (not individually confirmed). Beskar income TBC."
+    },
+    {
+      "id": "kx",
+      "name": "KX",
+      "type": "Battle",
+      "rarity": "Mythic",
+      "sandcrawlerCost": 300000000,
+      "income": {
+        "base": 7200,
+        "gold": 14400,
+        "diamond": 28800,
+        "rainbow": 57600,
+        "beskar": null
+      },
+      "owned": false,
+      "ownedTier": "None",
+      "notes": "Mythic tier added ~Jul 1 2026 (source: Destructoid/games.gg/AllThingsHow). Base cost & income confirmed; Gold/Diamond/Rainbow income inferred using the game's standard x2-per-tier doubling rule (not individually confirmed). Beskar income TBC."
+    },
+    {
+      "id": "ig",
+      "name": "IG",
+      "type": "Battle",
+      "rarity": "Mythic",
+      "sandcrawlerCost": 228000000,
+      "income": {
+        "base": 5800,
+        "gold": 11600,
+        "diamond": 23200,
+        "rainbow": 46400,
+        "beskar": null
+      },
+      "owned": false,
+      "ownedTier": "None",
+      "notes": "Mythic tier added ~Jul 1 2026 (source: Destructoid/games.gg/AllThingsHow). Base cost & income confirmed; Gold/Diamond/Rainbow income inferred using the game's standard x2-per-tier doubling rule (not individually confirmed). Beskar income TBC."
     }
   ]
 }
